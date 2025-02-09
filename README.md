@@ -23,3 +23,4 @@ A primeira versão do Windows não foi popular. Uma das principais críticas era
 
 ![windows 1.0](https://operationalhistory.wordpress.com/wp-content/uploads/2011/10/1985_windows.png)
 
+## Windows 2.0 ( 
