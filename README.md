@@ -37,4 +37,4 @@ O Menu Iniciar finalmente apareceu, já ao lado da barra de tarefas, ambos prese
 
 ![Windows 95](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNQ4K4Onbb0Do9_CeMkHQDQRJrReCeO9GkHANiJaEA4zwMTqwziIgHzruVnHBzfyecx3TtOGREOJS8x7HcwvNFgjoDI4Sj0xtYCB9GeXHKJ07VLdiB27cnCDpskJ6mq-bIyIxTuvnVqG5f/s1600/windows95_big.png)
 
-## Windows 
+## Windows XP (
