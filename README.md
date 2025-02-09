@@ -42,10 +42,8 @@ Em 2001, a Microsoft inaugurou a  Windows XP. A sigla XP é derivada da palavra 
 
 ![Windows XP]( https://cdn0-production-images-kly.akamaized.net/dYsGviZcW8xRh8lUSCYVtzvk2eI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/594476/original/windows-140119b.jpg)
 
-## Windows Vista (2007)
-Caminhando para as versões mais recentes do Windows, o Vista foi um dos fiascos mais conhecidos da Microsoft. Visualmente, ele era totalmente novo, graças à nova interface gráfica conhecida como Windows Aero. Entretanto, a Microsoft queria corrigir um dos defeitos mais avaliadas do antecessor: a segurança. Infelizmente, ele não era impecável, mas mesmo assim continuava com falhas encontradas na edição anterior.
+## Windows 7 (2009)
 
-![Descrição da Imagem]()
 
 
 
