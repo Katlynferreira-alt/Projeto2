@@ -17,5 +17,7 @@ Não foi um sucesso momentâneo, mas ao longo de vários anos e **múltiplas ver
 Ao longo das últimas décadas, **o sistema operacional Windows tem sido uma peça fundamental na transformação do mundo da informática**, tanto nos ambientes pessoais quanto corporativos. Nesse texto, vamos explorar as principais mudanças e avanços obtidos pelo Windows, analisando como ele se adptou aos seus usuários durante os anos.
 
 ## Windows 1.0 (1985)
+A história começa antes dele, no MS-DOS. Em 1981, a Microsoft iniciou o desenvolvimento de um software de interface gráfica, que posteriormente veio a se tornar o Windows. Lançado no ano de 1985, o Windows 1.0 foi o começo de tudo. O software era uma interface gráfica, mas não um sistema operacional  que rodava sobre o MS-DOS, e não tinha um “desktop”. Vinha com apps como o Paint, calculadora, agenda, editor de texto (o Write) um jogo simples, o Reversi.
+A primeira versão do Windows não foi popular. Uma das principais críticas era que o sistema era “pesado”, exigindo no mínimo um PC XT com dois drives de disquetes e 192 kB (sim, quilobytes!) para rodar, com 256 ou 512 kB sendo o recomendado, além de um mouse e uma placa de vídeo com modo gráfico.
 
 
