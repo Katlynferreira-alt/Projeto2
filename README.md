@@ -31,5 +31,10 @@ A flexibilidade permitia que o usuário torna-se a janela maior ou menor, tal co
 
 ![Windows 2.0](https://operationalhistory.wordpress.com/wp-content/uploads/2011/10/windows-2.gif))
 
-## Windows 
+## Windows 95 (1995) 
+Foi no Windows 95 que a Microsoft renunciou o  MS-DOS para colocar a interface gráfica priorizando o sistema operacional. A clássica edição do SO foi lançada em agosto de 1995 e era totalmente diferente. 
+O Menu Iniciar finalmente apareceu, já ao lado da barra de tarefas, ambos presentes na atualidade. Arquivos podiam ter nomes de até 255 caracteres. Foi nessa edição, também, que o Internet Explorer apareceu. Ele não era instalado por padrão, mas era parte de um pacote de atualização chamado Plus.
+
+![Descrição da Imagem]()
+
 
