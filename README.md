@@ -14,5 +14,7 @@ Os sistemas operacionais Windows são um conjunto de sistemas operacionais desen
 A Microsoft foi implantada nos anos de 1975 pelos amigos **Bill Gates e Paul Allen**, e em pouco tempo, se destacou como uma das principais empresas no setor tecnológico. Com o obejtivo de Bill em desenvolver e vender softwares para computadores pessoais como o Altair 8800 da epóca, a Microsoft tornou-se sinônimo de mudança e inovação. Entretanto uma nova página foi escrita na história, quando a Microsoft lançou o **Windows**.
 Não foi um sucesso momentâneo, mas ao longo de vários anos e **múltiplas versões o sistema foi crescendo, se aprimorando e conquistando espaço, até dominar completamente a computação pessoal**. Não faltam alternativas, como o Linux e mac OS, mas para muitas pessoas o Windows é sinônimo de “PC”, e é inconvebível que um possa existir sem o outro.
 
+Vamos contar um pouco sobre essa profunda jornada, relembrando **as versões passadas do Windows e seus principais marcos durante esse trajeto**. Vale notar que vamos falar apenas das versões para computadores operários. Existe toda uma outra linha do tempo para o Windows NT, voltado para o mercado corporativo, além do Windows Server, para servidores. Isso sem falar nos sistemas operacionais para dispositivos móveis, como o Windows CE e Windows Phone.
+
 
 
