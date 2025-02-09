@@ -12,4 +12,6 @@ Os sistemas operacionais Windows são um conjunto de sistemas operacionais desen
 # História do Microsoft, Windows e a sua evolução ao passar dos anos
 ---
 A Microsoft foi implantada nos anos de 1975 pelos amigos Bill Gates e Paul Allen, e em pouco tempo, se destacou como uma das principais empresas no setor tecnológico. Com o obejtivo de Bill em desenvolver e vender softwares para computadores pessoais como o Altair 8800 da epóca, a Microsoft tornou-se sinônimo de mudança e inovação. Entretanto uma nova página foi escrita na história, quando a Microsoft lançou o Windows.
+Não foi um sucesso momentâneo, mas ao longo de vários anos e múltiplas versões o sistema foi crescendo, se aprimorando e conquistando espaço, até dominar completamente a computação pessoal. Não faltam alternativas, como o Linux e mac OS, mas para muitas pessoas o Windows é sinônimo de “PC”, e é inconvebível que um possa existir sem o outro.
+
 
