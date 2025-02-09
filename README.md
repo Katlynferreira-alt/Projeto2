@@ -48,7 +48,13 @@ Foi um sucesso, com mais de 100 milhões de cópias foram vendidas em todo o mun
 
 ![Windows 7](https://www.version2.dk/sites/mi/files/styles/original/public/2012-12/4955.png.webp?itok=WW0RAQOO)
 
-## Windows 8( 
+## Windows 10 (2015)
+Chegou o Windows 10 em 2015. A Microsoft apostou firme no sistema operacional, com isso ele melhorou a interface Windows Metro, estabeleceu a restauração do Menu Iniciar e proporcionou uma experiência agradável tanto para usuários de mouse e teclado quanto telas sensíveis ao toque. Microsoft Edge também chegou com ele como uma parte do pacote.
+A evolução do Windows 10 seguiu constante. A Microsoft não tratava mais seu sistema operacional como um produto, mas como um serviço. Duas vezes ao ano, a marca liberou pacotes de atualizações massivas para renovar a experiência visual e funcional.
+
+![Windows 10](https://s2-techtudo.glbimg.com/B74oIrgbNXlx2Z6i9Y85-xLfofs=/0x0:695x391/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/M/b/H0vSriQWuVyOcaTiwt2g/windows-10-s-e-restrito-a-apps-da-loja-oficial.png)
+
+
 
 
 
