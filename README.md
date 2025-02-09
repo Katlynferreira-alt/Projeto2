@@ -21,3 +21,5 @@ A história começa antes dele, no MS-DOS. Em 1981, a Microsoft iniciou o desenv
 A primeira versão do Windows não foi popular. Uma das principais críticas era que o sistema era “pesado”, exigindo no mínimo um PC XT com dois drives de disquetes e 192 kB (sim, quilobytes!) para rodar, com 256 ou 512 kB sendo o recomendado, além de um mouse e uma placa de vídeo com modo gráfico.
 
 
+![windows 1.0](https://operationalhistory.wordpress.com/wp-content/uploads/2011/10/1985_windows.png)
+
