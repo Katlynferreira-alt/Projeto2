@@ -46,10 +46,9 @@ Em 2001, a Microsoft inaugurou a  Windows XP. A sigla XP é derivada da palavra 
 Em 2009, o Windows 7 chegou á festa. Com o mesmo Windows Aero na interface, ele era uma versão infinitamente mais refinada que o Vista, mas sem grandes empenhos. O ponto era ser mais limpo, eficiente e prático de usar pontos destacados não compridos no anterior(vista)
 Foi um sucesso, com mais de 100 milhões de cópias foram vendidas em todo o mundo. Até 2018, ele foi considerado o sistema operacional mais admirado, até que perdeu sua posição para o Win 10.
 
-![Descrição da Imagem]()
+![Windows 7](https://www.version2.dk/sites/mi/files/styles/original/public/2012-12/4955.png.webp?itok=WW0RAQOO)
 
-
-
+## Windows 8( 
 
 
 
