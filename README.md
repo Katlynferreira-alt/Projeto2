@@ -37,4 +37,7 @@ O Menu Iniciar finalmente apareceu, já ao lado da barra de tarefas, ambos prese
 
 ![Windows 95](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNQ4K4Onbb0Do9_CeMkHQDQRJrReCeO9GkHANiJaEA4zwMTqwziIgHzruVnHBzfyecx3TtOGREOJS8x7HcwvNFgjoDI4Sj0xtYCB9GeXHKJ07VLdiB27cnCDpskJ6mq-bIyIxTuvnVqG5f/s1600/windows95_big.png)
 
-## Windows XP (
+## Windows XP (2001)
+Em 2001, a Microsoft inaugurou a  Windows XP. A sigla XP é derivada da palavra “eXPerience”. Uma das suas principais diferenças estava associada a  interface totalmente retrabalhada nessa versão. Foram embora os formatos quadrados e efeitos tridimensionais em tons de cinza, e uma paleta novamente colorida tomou o seu lugar. A velocidade do sistema era consideravelmente superior as outras versões. O suporte a componentes foi melhorado e a alternância de contas entre usuários finalmente se tornou um padrão.
+
+![Descrição da Imagem]( )
