@@ -25,4 +25,11 @@ A primeira versão do Windows não foi popular. Uma das principais críticas era
 
 ![windows 1.0](https://operationalhistory.wordpress.com/wp-content/uploads/2011/10/1985_windows.png)
 
-## Windows 2.0 ( 
+## Windows 2.0 (1987)
+A maior atualização do software, o Windows 2.0, chegou em 1987 e seguia a mesma proposta de ser um complemento com interface gráfica para o MS-DOS. Sua maior novidade da era, foi a sobreposição de janelas, recurso indisponível na versão anterior.
+A flexibilidade permitia que o usuário torna-se a janela maior ou menor, tal como é a função atual. Na época, o Windows 2.0 era transportado em até nove disquetes de alta densidade (316 KB). A interface era praticamente a mesma, mas novas cores, ferramentas e recursos davam um ar de renovação ao update.
+
+![Windows 2.0](https://operationalhistory.wordpress.com/wp-content/uploads/2011/10/windows-2.gif))
+
+## Windows 
+
