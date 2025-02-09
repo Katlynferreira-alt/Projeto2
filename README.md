@@ -9,6 +9,7 @@
 ---
 Os sistemas operacionais Windows são um conjunto de sistemas operacionais desenvolvidos pela Microsoft nos anos 80, projetadas para gerenciar o hardware da máquina e apresentar interfaces, para que a pessoa usuária possa interagir com o sistema. **O Windows exibe uma ampla variedade de recursos, incluindo um campo de interação gráfica com ícones, janelas e menus que facilitam a navegação e a utilização do sistema**. Ademais, ele também oferece suporte para aplicativos, dispositivos periféricos, redes e segurança. A principal **vantagem do Windows é sua compatibilidade com uma ampla série de hardwares e softwares**, tornando-se **uma das opções mais procuradas do mercado de sistemas operacionais**.
 
-# História do Microsoft, Windows e evolução
+# História do Microsoft, Windows e a sua evolução ao passar dos anos
 ---
-A Microsoft foi implantada nos anos de 1975 pelos amigos Bill Gates e Paul Allen, e em pouco tempo, se destacou como uma das principais empresas no setor tecnológico. 
+A Microsoft foi implantada nos anos de 1975 pelos amigos Bill Gates e Paul Allen, e em pouco tempo, se destacou como uma das principais empresas no setor tecnológico. Com o obejtivo de Bill em desenvolver e vender softwares para computadores pessoais como o Altair 8800 da epóca, a Microsoft tornou-se sinônimo de mudança e inovação. Entretanto uma nova página foi escrita na história, quando a Microsoft lançou o Windows.
+
