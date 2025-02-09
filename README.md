@@ -18,3 +18,4 @@ Ao longo das últimas décadas, **o sistema operacional Windows tem sido uma pe�
 
 ## Windows 1.0 (1985)
 
+
