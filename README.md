@@ -54,9 +54,11 @@ A evolução do Windows 10 seguiu constante. A Microsoft não tratava mais seu s
 
 ![Windows 10](https://s2-techtudo.glbimg.com/B74oIrgbNXlx2Z6i9Y85-xLfofs=/0x0:695x391/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/M/b/H0vSriQWuVyOcaTiwt2g/windows-10-s-e-restrito-a-apps-da-loja-oficial.png)
 
+## Windows 11 (2021)
+Para encerrar, o Windows 11.  O sistema operacional seria mais uma enorme renovação da família Windows, incluindo novo visual, funcionalidades, uma abordagem mais amigável com o Linux, incluindo suporte a apps de Android.
+Ainda assim, o lançamento passou por certas dificuldades, como as exigências transcendente de requisitos mínimos, se tornaram um problema logo após o anúncio. O sistema, entretanto, parece mesmo uma evolução direta do antecessor e se mostra capaz de quebrar o ciclo de um acerto seguido de um erro da gigante em termos de mudanças de versão.
 
-
-
+![Windows 11](https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/42/2021/06/1-960x640.png)
 
 
 
