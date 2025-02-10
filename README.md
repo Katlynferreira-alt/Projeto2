@@ -60,9 +60,8 @@ Ainda assim, o lançamento passou por certas dificuldades, como as exigências t
 
 ![Windows 11](https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/42/2021/06/1-960x640.png)
 
-
-
-
+# Arquitetura Windows
+---
 
 
 
