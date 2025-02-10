@@ -92,6 +92,22 @@ Verifica e corrige erros no disco.
 ` sfc /scannow `
 Verifica e repara arquivos de sistema corrompidos.
 
+---
+# Comandos do PowerShell
+` Get-Help `
+Exibe a ajuda sobre comandos e funções PowerShell.
+
+` Get-Command `
+Lista todos os comandos disponíveis.
+
+` Get-Process `
+Exibe os processos em execução.
+
+` Get-Service `
+Lista todos os serviços do Windows.
+
+` Restart-Service [NomeDo
+
 
 
 
