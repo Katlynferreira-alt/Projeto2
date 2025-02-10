@@ -68,7 +68,7 @@ A arquitetura de um sistema operacional abrange um amplo conjunto de componentes
 
 > Já no contexto da interface gráfica, envolve a estrutura que permite a interação do usuário com o computador através de gráficos e elementos visuais. Ela é composta por um gerenciador de janelas que organiza a exibição das janelas no desktop, permitindo a criação, movimentação e interação com elas, interface de aplicação gráfica que é um conjunto de elementos gráficos (como botões, menus, caixas de texto, etc.) que facilita a interação com o usuário e o sistema de entrada que gerencia os dispositivos de entrada, como o mouse e o teclado.
 
-# Comandos Úteis para Terminar e Power Shell
+# Comandos Úteis para Terminal e Power Shell
 ---
 ## Comandos do Prompt de Comando (CMDS)
 ` ipconfig `
@@ -92,8 +92,9 @@ Verifica e corrige erros no disco.
 ` sfc /scannow `
 Verifica e repara arquivos de sistema corrompidos.
 
+
+## Comandos do PowerShell
 ---
-# Comandos do PowerShell
 ` Get-Help `
 Exibe a ajuda sobre comandos e funções PowerShell.
 
@@ -106,10 +107,19 @@ Exibe os processos em execução.
 ` Get-Service `
 Lista todos os serviços do Windows.
 
-` Restart-Service [NomeDo
+` Restart-Service [NomeDoServiço] `
+Reinicia um serviço específico.
 
+` Set-ExecutionPolicy `
+Define a política de execução para scripts do PowerShell.
 
+` Invoke-Command `
+Executa comandos em computadores remotos.
 
+` Get-EventLog `
+Recupera eventos dos logs do sistema.
+
+---
 
 
 
