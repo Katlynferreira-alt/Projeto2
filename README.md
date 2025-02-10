@@ -68,9 +68,29 @@ A arquitetura de um sistema operacional abrange um amplo conjunto de componentes
 
 > Já no contexto da interface gráfica, envolve a estrutura que permite a interação do usuário com o computador através de gráficos e elementos visuais. Ela é composta por um gerenciador de janelas que organiza a exibição das janelas no desktop, permitindo a criação, movimentação e interação com elas, interface de aplicação gráfica que é um conjunto de elementos gráficos (como botões, menus, caixas de texto, etc.) que facilita a interação com o usuário e o sistema de entrada que gerencia os dispositivos de entrada, como o mouse e o teclado.
 
+# Comandos Úteis para Terminar e Power Shell
+---
+## Comandos do Prompt de Comando (CMDS)
+` ipconfig `
+Exibe as configurações de rede do computador.
 
+` ping [endereço] `
+Verifica a conectividade com outro dispositivo na rede.
 
+` tracert [endereço] `
+Rastreia a rota que os pacotes seguem até o destino.
 
+` netstat -an `
+Lista todas as conexões de redes e portas de uso.
+
+` systeminfo `
+Fornece informações detalhadas sobre o sistema.
+
+` chkdsk `
+Verifica e corrige erros no disco.
+
+` sfc /scannow `
+Verifica e repara arquivos de sistema corrompidos.
 
 
 
