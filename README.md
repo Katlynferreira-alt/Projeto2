@@ -62,6 +62,28 @@ Ainda assim, o lançamento passou por certas dificuldades, como as exigências t
 
 # Arquitetura Windows
 ---
+A arquitetura de um sistema operacional abrange um amplo conjunto de componentes e estruturas que garantem o funcionamento do sistema de forma geral. Entretando o sistema operacional Windows, a arquitetura é integrada por diversos elementos que trabalham em conjunto para fornecer uma experiência segura para os usuários. Vamos entender os principais segmentos da arquitetura do sistema operacional Windows e entender como eles se relacionam.
+
+> Kernel do Windows é o núcleo do sistema operacional e é responsável por gerenciar os recursos do hardware, como processadores, memória e dispositivos de entrada e saída, juntamente com o asseguramento do sistema, controlando o acesso aos recursos e protegendo-os contra ameaças. 
+
+> Já no contexto da interface gráfica, envolve a estrutura que permite a interação do usuário com o computador através de gráficos e elementos visuais. Ela é composta por um gerenciador de janelas que organiza a exibição das janelas no desktop, permitindo a criação, movimentação e interação com elas, interface de aplicação gráfica que é um conjunto de elementos gráficos (como botões, menus, caixas de texto, etc.) que facilita a interação com o usuário e o sistema de entrada que gerencia os dispositivos de entrada, como o mouse e o teclado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
