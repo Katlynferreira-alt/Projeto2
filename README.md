@@ -119,8 +119,10 @@ Executa comandos em computadores remotos.
 ` Get-EventLog `
 Recupera eventos dos logs do sistema.
 
+# Curiosidades sobre o Windows!
 ---
 
+[Texto do Link](https://blog.contabilista.com.br/curiosidades-sobre-a-microsoft)
 
 
 
