@@ -121,10 +121,17 @@ Recupera eventos dos logs do sistema.
 
 # Curiosidades sobre o Windows!
 ---
+1- Windows 1.0: Lançado em 1985, o Windows 1.0 não era um sistema operacional completo, mas sim uma camada gráfica que funcionava sobre o MS-DOS, sem recursos como minimização de janelas ou multitarefa.-
 
-[Texto do Link](https://blog.contabilista.com.br/curiosidades-sobre-a-microsoft)
+2- Domínio do Mercado: O Windows continua sendo o sistema operacional mais utilizado, com cerca de 76% de participação no mercado em 2023, destacando-se como líder absoluto no ambiente de desktop e portáteis.
 
+3- Ctrl + Alt + Del: Originalmente criado para reiniciar o computador, o famoso atalho virou um ícone e, com o tempo, passou a ser usado para abrir o Gerenciador de Tarefas e solucionar problemas do sistema.
 
+4- Windows 95: Este sistema foi um divisor de águas. Introduziu o Menu Iniciar, a barra de tarefas e o suporte a redes, além de ser o primeiro sistema da Microsoft a utilizar um núcleo de 32 bits. Seu lançamento foi amplamente promovido com uma campanha publicitária histórica.
+
+5- Windows para Crianças: Em tentativas de se expandir para o público infantil, a Microsoft criou uma versão do Windows com uma interface mais simples e recursos como controles parentais e jogos educativos, chamada Windows 8 for Kids.
+
+---
 
 
 
